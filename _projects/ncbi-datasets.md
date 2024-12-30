@@ -11,9 +11,9 @@ I demonstrate in detail my methodology in:
     **3. Validating this list to retain only validly published organisms** <br>
     **4. Automating the download of whole genome assemblies** <br>
 <br>
-My complete workflow is documented in a single Jupyter Notebook; check it out [here](https://github.com/shuaneryx/ncbi_datasets/blob/main/ncbi_datasets.ipynb){:target: '_blank'}!
+My complete workflow is documented in a single Jupyter Notebook; check it out <a href='https://github.com/shuaneryx/ncbi_datasets/blob/main/ncbi_datasets.ipynb' target='_blank'>here</a>!
 
-The genome dataset showcased here is used in my description of a marine bacteria (**TLL-SE01**) from a novel genus, [***Parasalinivibrio***](https://lpsn.dsmz.de/genus/parasalinivibrio){:target: '_blank'}, which I isolated from the intestinal contents of a farmed Asian Seabass (*Lates calcarifer*). I used this dataset in my downstream phylogenetic and taxonogenomic analysis of **TLL-SE01** together with all valid species from the family *Vibrionaceae*. 
+The genome dataset showcased here is used in my description of a marine bacteria (**TLL-SE01**) from a novel genus, <a href='https://lpsn.dsmz.de/genus/parasalinivibrio' target='_blank'><i>Parasalinivibrio</i></a>, which I isolated from the intestinal contents of a farmed Asian Seabass (*Lates calcarifer*). I used this dataset in my downstream phylogenetic and taxonogenomic analysis of **TLL-SE01** together with all valid species from the family *Vibrionaceae*. 
 
 <hr>
 "

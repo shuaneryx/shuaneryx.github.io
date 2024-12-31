@@ -5,11 +5,10 @@ category: manuscripts
 permalink: /publication/tetX4-mgs
 excerpt: 'We demonstrate the effectiveness of metagenomic sequencing in detecting the tigecycline resistance gene, <i>tet</i>(X4) in faecal samples from a cohort of healthy human subjects. Furthermore, we also discovered a frequently occurring multidrug resistance cassette inclusive of a recently discovered tylosin resistance gene.'
 date: 2024-03-05
-venue: '<a href="https://doi.org/10.1128/spectrum.03969-23">Microbiology Spectrum</a>'
+venue: '<a href="https://doi.org/10.1128/spectrum.03969-23" target="_blank">Microbiology Spectrum</a>'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://shuaneryx.github.io/files/ding-et-al-2024-comparison-of-tet(x4)-containing-contigs-assembled-from-metagenomic-sequencing-data-with-plasmid.pdf'
 citation: '<br/><b>Ding Y, Er S et al. (2024)</b>. Comparison of <i>tet</i>(X4)-containing contigs assembled from metagenomic sequencing data with plasmid sequences of isolates from a cohort of healthy subjects. <i>Microbiol Spectr12:e03969-23</i>. https://doi.org/10.1128/spectrum.03969-23'
-# citation: 'Your Name, You. (2009). &quot;Paper Title Number 1.&quot; <i>Journal 1</i>. 1(1).'
 ---
 
 Abstract

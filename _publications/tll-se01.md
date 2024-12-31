@@ -5,7 +5,7 @@ category: manuscripts
 permalink: /publication/tll-se01
 excerpt: 'This paper describes a novel marine bacterium TLL-SE01 isolated from the instestinal contents of a healthy farmed Asian Seabass. A comphrehensive polyphasic taxonomic analysis of this strain places it in a novel genus <i>Parasalinivibrio</i> within the family Vibrionaceae. In addition, we re-evaluated the AAI genus demarcation boundary for genomes within Vibrionaceae.'
 date: 2024-11-09
-venue: '<a href="https://doi.org/10.1007/s10482-024-02036-x">Antonie van Leeuwenhoek</a>'
+venue: '<a href="https://doi.org/10.1007/s10482-024-02036-x" target="_blank">Antonie van Leeuwenhoek</a>'
 slidesurl: # 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://shuaneryx.github.io/files/Parasalinivibrio_latis_gen_nov_sp_nov_isolated_fro.pdf'
 citation: '<br/><b>Er, S et al.</b> <i>Parasalinivibrio latis</i> gen. nov., sp. nov., isolated from the distal gut of healthy farmed Asian Seabass

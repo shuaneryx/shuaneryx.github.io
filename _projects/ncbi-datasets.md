@@ -22,4 +22,3 @@ link: "https://github.com/shuaneryx/ncbi_datasets"
 date: 2024-12-29
 ---
 
-Learn to automate your genome downloads using the NCBI Datasets API <br/><img src='/images/500x300.png'>

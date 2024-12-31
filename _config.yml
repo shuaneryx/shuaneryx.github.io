@@ -24,7 +24,7 @@ author:
   avatar           : "profile.png"
   name             : "Shuan Er"
   pronouns         : # example: "she/her"  
-  bio              : "BSc. (Hons) | NUS </br> Research Officer </br> Temasek Life Sciences Laboratory"
+  bio              : "BSc. (Hons) | NUS </br> Asst Research Officer </br> Temasek Life Sciences Laboratory"
   location         : "Singapore"
   employer         : # "shuan's employer"
   uri              : # URL
@@ -58,7 +58,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : "shuaner"
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username
